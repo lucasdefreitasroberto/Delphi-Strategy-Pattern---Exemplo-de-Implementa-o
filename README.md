@@ -167,7 +167,6 @@ uses
 
 type
   TForm1 = class(TForm)
-    Memo1: TMemo;
     btnExecuteStrategyA: TButton;
     btnExecuteStrategyB: TButton;
     procedure btnExecuteStrategyAClick(Sender: TObject);
