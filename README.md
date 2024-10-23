@@ -178,7 +178,8 @@ type
   end;
 
 var
-  Form1: TForm1;
+  frmMain: TfrmMain;
+
 
 implementation
 
